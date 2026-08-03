@@ -5,4 +5,8 @@
 ```bash
 docker system prune -a
 ```
+#### docker images build koro
+```bash
+
+```
 ---
