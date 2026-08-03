@@ -9,4 +9,8 @@ docker system prune -a
 ```bash
 docker build -t my-node-app .
 ```
+#### docker images check
+```bash
+docker images
+```
 ---
