@@ -18,5 +18,5 @@ docker images
 
 #### docker desktop e docker image create hoye jabe. then image run koro. 
 ![](https://imgur.com/VACCjig.png)
-#### containers e server run hoye jabe.
+#### containers e server run hoye jabe. port e click korle browser e open hoye jabe.
 ![](https://imgur.com/UQ4QcKZ.png)
