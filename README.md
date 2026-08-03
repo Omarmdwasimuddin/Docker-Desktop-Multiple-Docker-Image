@@ -7,6 +7,6 @@ docker system prune -a
 ```
 #### docker images build koro
 ```bash
-
+docker build -t my-node-app .
 ```
 ---
