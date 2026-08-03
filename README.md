@@ -5,6 +5,7 @@
 ```bash
 docker system prune -a
 ```
+---
 #### docker images build koro
 ```bash
 docker build -t my-node-app .
@@ -14,3 +15,5 @@ docker build -t my-node-app .
 docker images
 ```
 ---
+
+#### docker desktop e docker image create hoye jabe. then image run koro.
