@@ -29,8 +29,13 @@ app.get('/', (req, res) => {
   res.send('Hello, World! This is a simple Express server.');
 });
 
-app.listen(4000, () => {
-  console.log('Server is running on port 4000');
+app.listen(3000, () => {
+  console.log('Server is running on port 3000');
 });
 ```
+#### Terminal e 
+```bash
+docker build -t my-node-app:v2 .
+```
+#### docker desktop e docker image create hoye jabe. then image run koro. duita image ei run korar jabe ekhon.
 ---
